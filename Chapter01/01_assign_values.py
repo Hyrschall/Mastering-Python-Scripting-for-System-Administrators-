@@ -6,4 +6,3 @@ print(name)
 print(age)
 print(address)
 print(percentage)
-

@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 cities = ('Mumbai', 'Bangalore', 'Chennai', 'Pune')
-print ("Before deleting: ", cities)
+print("Before deleting: ", cities)
 del cities
-print ("After deleting: ", cities)
-
+print("After deleting: ", cities)
